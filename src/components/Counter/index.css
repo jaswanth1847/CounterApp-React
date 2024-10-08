@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
+
+.cont{
+    background-color: aqua;
+    height: 50vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.btn{
+    display: flex;
+    gap: 20px;
+}
+
+button{
+    height: 20px;
+    width: 50px;
+    background-color: rgb(108, 54, 145);
+    color: rgb(225, 223, 210);
+    border-width: 0px;
+    border-radius: 2px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+.btn1{
+    background-color: rgb(71, 71, 83);
+    color: aliceblue;
+    border-width: 0px;
+    border-radius: 2px;
+}
